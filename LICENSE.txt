@@ -1,0 +1,15 @@
+############################################################################
+# Made by the individual programmer.
+# ismayeel
+############################################################################    
+
+################################
+# Copyright (c) 2024
+################################
+
+################################################################
+# gmail: ismayeelanver@gmail.com
+# github: https://github.com/ismayeelanver
+# other contributors: none
+# support: none
+# documentation: https://shootery.github.io/
